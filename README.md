@@ -1,1 +1,1 @@
-# ai-finder
+AI Finder static website. Upload all four site files to the root of GitHub. Cloudflare Pages build command: blank. Build output directory: / (or . if required). Pricing labels may change; verify with each provider. No accounts, payments, database or advertising integration yet.
