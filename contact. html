@@ -1,0 +1,181 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact Us | AI Finder</title>
+  <meta name="description" content="Contact AI Finder with questions, suggestions, broken links, or partnership enquiries.">
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f7fc;
+      color: #17233f;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #101d3a;
+      color: white;
+      padding: 24px 16px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 30px;
+    }
+
+    nav {
+      margin-top: 12px;
+    }
+
+    nav a {
+      color: white;
+      margin: 0 10px;
+      text-decoration: none;
+    }
+
+    main {
+      max-width: 760px;
+      margin: 35px auto;
+      padding: 30px 22px;
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 18px rgba(0,0,0,0.06);
+    }
+
+    h2 {
+      color: #101d3a;
+    }
+
+    .email {
+      color: #2459c4;
+      font-weight: bold;
+      overflow-wrap: anywhere;
+    }
+
+    label {
+      display: block;
+      margin-top: 16px;
+      font-weight: bold;
+    }
+
+    input, textarea {
+      width: 100%;
+      padding: 12px;
+      margin-top: 6px;
+      border: 1px solid #cbd5e5;
+      border-radius: 7px;
+      font: inherit;
+    }
+
+    textarea {
+      min-height: 130px;
+      resize: vertical;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 13px 22px;
+      background: #101d3a;
+      color: white;
+      border: none;
+      border-radius: 7px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #2459c4;
+    }
+
+    footer {
+      text-align: center;
+      padding: 22px;
+      color: #657087;
+    }
+
+    footer a {
+      color: #2459c4;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Contact AI Finder</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Get in Touch</h2>
+
+    <p>
+      We would love to hear from you. Contact AI Finder if you have
+      questions, suggestions, or business enquiries.
+    </p>
+
+    <h3>Contact Email</h3>
+    <p>
+      Email us at:
+      <a class="email" href="mailto:aifinder2026@gmail.com">
+        aifinder2026@gmail.com
+      </a>
+    </p>
+
+    <h3>What Can You Contact Us About?</h3>
+    <ul>
+      <li>Suggesting new AI tools for our directory</li>
+      <li>Reporting broken links or incorrect information</li>
+      <li>Advertising and sponsored listings</li>
+      <li>Affiliate and business partnerships</li>
+      <li>Questions and feedback</li>
+    </ul>
+
+    <h3>Send Us a Message</h3>
+
+    <form action="mailto:aifinder2026@gmail.com"
+          method="post"
+          enctype="text/plain">
+
+      <label for="name">Your Name</label>
+      <input type="text" id="name" name="Name" required>
+
+      <label for="email">Your Email</label>
+      <input type="email" id="email" name="Email" required>
+
+      <label for="subject">Subject</label>
+      <input type="text" id="subject" name="Subject" required>
+
+      <label for="message">Your Message</label>
+      <textarea id="message" name="Message" required></textarea>
+
+      <button type="submit">Send Message</button>
+    </form>
+
+    <p>
+      Note: The message form opens the visitor's email application.
+      If that does not work, they can contact us directly using the
+      email address above.
+    </p>
+  </main>
+
+  <footer>
+    <p>© 2026 AI Finder. All rights reserved.</p>
+    <a href="index.html">Back to Home</a>
+  </footer>
+
+</body>
+</html>
