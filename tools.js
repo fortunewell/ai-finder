@@ -73,11 +73,11 @@ window.AI_TOOLS = [
   },
   {
   "id": 10,
-  "name": "Phind",
+  "name": "Meta AI",
   "category": "Writing & Chat",
-  "url": "https://www.phind.com/",
-  "pricing": "Freemium",
-  "description": "Phind is an AI-powered search and answer assistant for research, technical questions and coding."
+  "url": "https://www.meta.ai/",
+  "pricing": "Free",
+  "description": "Meta AI is an AI assistant for chatting, answering questions, writing and exploring ideas."
   },
   {
     "id": 11,
