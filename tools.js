@@ -72,12 +72,12 @@ window.AI_TOOLS = [
     "description": "HuggingChat offers AI-powered features for writing & chat tasks."
   },
   {
-    "id": 10,
-    "name": "Open Assistant",
-    "category": "Writing & Chat",
-    "url": "https://open-assistant.io/",
-    "pricing": "Free",
-    "description": "Open Assistant offers AI-powered features for writing & chat tasks."
+  "id": 10,
+  "name": "Phind",
+  "category": "Writing & Chat",
+  "url": "https://www.phind.com/",
+  "pricing": "Freemium",
+  "description": "Phind is an AI-powered search and answer assistant for research, technical questions and coding."
   },
   {
     "id": 11,
