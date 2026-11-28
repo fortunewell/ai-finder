@@ -720,7 +720,7 @@ window.AI_TOOLS = [
     "description": "ChatPDF offers AI-powered features for research tasks."
   },
   {
-    "id": 101,
+    "id": 91,
     "name": "HubSpot",
     "category": "Business",
     "url": "https://www.hubspot.com/",
@@ -728,7 +728,7 @@ window.AI_TOOLS = [
     "description": "HubSpot offers AI-powered features for business tasks."
   },
   {
-    "id": 102,
+    "id": 92,
     "name": "AdCreative.ai",
     "category": "Business",
     "url": "https://www.adcreative.ai/",
@@ -736,7 +736,7 @@ window.AI_TOOLS = [
     "description": "AdCreative.ai offers AI-powered features for business tasks."
   },
   {
-    "id": 103,
+    "id": 93,
     "name": "Surfer SEO",
     "category": "Business",
     "url": "https://surferseo.com/",
@@ -744,7 +744,7 @@ window.AI_TOOLS = [
     "description": "Surfer SEO offers AI-powered features for business tasks."
   },
   {
-    "id": 104,
+    "id": 94,
     "name": "Semrush",
     "category": "Business",
     "url": "https://www.semrush.com/",
@@ -752,7 +752,7 @@ window.AI_TOOLS = [
     "description": "Semrush offers AI-powered features for business tasks."
   },
   {
-    "id": 105,
+    "id": 95,
     "name": "Airtable",
     "category": "Business",
     "url": "https://www.airtable.com/",
@@ -760,7 +760,7 @@ window.AI_TOOLS = [
     "description": "Airtable offers AI-powered features for business tasks."
   },
   {
-    "id": 106,
+    "id": 96,
     "name": "Fathom",
     "category": "Business",
     "url": "https://fathom.video/",
@@ -768,7 +768,7 @@ window.AI_TOOLS = [
     "description": "Fathom offers AI-powered features for business tasks."
   },
   {
-    "id": 107,
+    "id": 97,
     "name": "Tome",
     "category": "Business",
     "url": "https://tome.app/",
@@ -776,7 +776,7 @@ window.AI_TOOLS = [
     "description": "Tome offers AI-powered features for business tasks."
   },
   {
-    "id": 108,
+    "id": 98,
     "name": "Fireflies.ai",
     "category": "Business",
     "url": "https://fireflies.ai/",
@@ -784,7 +784,7 @@ window.AI_TOOLS = [
     "description": "Fireflies.ai offers AI-powered features for business tasks."
   },
   {
-    "id": 109,
+    "id": 99,
     "name": "Otter.ai",
     "category": "Business",
     "url": "https://otter.ai/",
@@ -792,7 +792,7 @@ window.AI_TOOLS = [
     "description": "Otter.ai offers AI-powered features for business tasks."
   },
   {
-    "id": 110,
+    "id": 100,
     "name": "Durable",
     "category": "Business",
     "url": "https://durable.co/",
